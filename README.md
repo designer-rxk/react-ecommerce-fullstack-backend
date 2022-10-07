@@ -1,8 +1,8 @@
-# React E-Commerce Store
+# E-Commerce Store [ Backend ] 
 
 ## Technology used:
 * Strapi.io
-* React.js
+* GraphQL
 
 ## To run
 * Install dependencies
